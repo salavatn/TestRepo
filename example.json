@@ -1,0 +1,16 @@
+[{
+    "instruction": "Rewrite the given sentence in passive voice.",
+    "input": "The project manager assigned the task to the team.",
+    "response": "The task was assigned to the team by the project manager."
+  },
+  {
+    "instruction": "Rewrite the given sentence in passive voice.",
+    "input": "The project manager assigned the task to the team.",
+    "response": "The task was assigned to the team by the project manager."
+  },
+  {
+    "instruction": "Rewrite the given sentence in passive voice.",
+    "input": "The project manager assigned the task to the team.",
+    "response": "The task was assigned to the team by the project manager."
+  }
+  ]
